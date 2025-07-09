@@ -30,9 +30,13 @@ Built using **vanilla HTML, CSS, and JavaScript** — no frameworks — with a c
 ## 📂 Project Structure
 
 /novatech-intranet/
+
 ├── index.html # Main intranet page
+
 ├── style.css # Styling and animations
+
 ├── script.js # JavaScript interactions & API calls
+
 └── README.md # Project overview and info
 
 ---
@@ -56,16 +60,19 @@ Open index.html in your browser.
 
 No build tools, dependencies, or frameworks required.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5
+
 CSS3 (Flexbox, Animations, Media Queries)
+
 Vanilla JavaScript
+
 Open-Meteo API for live weather
 
-📌 License
+## 📌 License
 This project is open-source under the MIT License — feel free to fork, remix, and use it in your own projects.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Open-Meteo API
 DEV.to Axero Office Edition Challenge
 
