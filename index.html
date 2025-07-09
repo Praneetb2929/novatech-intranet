@@ -1,1 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NovaTech Intranet</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">NovaTech Solutions</div>
+    <div class="profile">👤</div>
+  </header>
+
+  <main>
+    <section class="welcome">
+      <h1>Welcome back, Alex!</h1>
+      <p id="date"></p>
+    </section>
+
+    <div class="announcement">
+      <div class="ticker">
+        🔔 Office Party on July 20th! | Team Building Hackathon coming soon! | Don’t miss the townhall next Friday!
+      </div>
+    </div>
+
+    <section class="main-content">
+      <div class="events">
+        <h2>📅 Upcoming Events</h2>
+        <ul>
+          <li>Dev Team Meet - 10 AM</li>
+          <li>Hackathon - 4 PM</li>
+        </ul>
+      </div>
+
+      <div class="employee-spotlight">
+        <h2>🎉 Employee of the Month</h2>
+        <p>Alex J.</p>
+        <p>"Always delivering."</p>
+      </div>
+    </section>
+
+    <section class="widgets">
+      <div class="quick-links">
+        <h3>📌 Quick Links</h3>
+        <ul>
+          <li><a href="#">HR Policy</a></li>
+          <li><a href="#">Leave Form</a></li>
+          <li><a href="#">Employee Directory</a></li>
+        </ul>
+      </div>
+
+      <div class="poll">
+        <h3>📊 Poll: Preferred Remote Days?</h3>
+        <button onclick="vote('Mon')">Mon (<span id="Mon">0</span>)</button>
+        <button onclick="vote('Tue')">Tue (<span id="Tue">0</span>)</button>
+        <button onclick="vote('Wed')">Wed (<span id="Wed">0</span>)</button>
+        <button onclick="vote('Thu')">Thu (<span id="Thu">0</span>)</button>
+        <button onclick="vote('Fri')">Fri (<span id="Fri">0</span>)</button>
+      </div>
+    </section>
+
+    <div class="weather" id="weather">🌦️ Loading weather...</div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
 
