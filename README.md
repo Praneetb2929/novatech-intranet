@@ -7,9 +7,13 @@ Built using **vanilla HTML, CSS, and JavaScript** — no frameworks — with a c
 
 ## 📸 Preview
 
-![NovaTech Intranet Screenshot](screenshot.png)
+NovaTech Intranet Screenshot
 
-> *(Add a real screenshot or demo GIF here if available)*
+![![Screenshot 2025-07-09 232122](https://github.com/user-attachments/assets/38c774de-4da4-43c3-b3f1-aa637c09ded8)
+
+
+![Screenshot 2025-07-09 232136](https://github.com/user-attachments/assets/6096ba74-e6ab-498b-a908-7aaa1aee57b0)
+
 
 ---
 
